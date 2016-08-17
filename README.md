@@ -18,7 +18,7 @@ The basic steps to deploy are are:
 
 To test your experience, please visit the following URL:
 
-https://dev.twitter.com/docs/cards/types/player-card
+https://dev.twitter.com/cards/types/player
 
 At that site, you will also find information on general rules, in case you choose to extend the experience to fit your own platform and media player.
 
