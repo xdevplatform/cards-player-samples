@@ -6,7 +6,7 @@ Thank you for downloading the Twitter Cards getting started bundle!
 Player Card
 -----
 
-In the /player path, you'll find sample code to set up a simple Player Card for your site. 
+In the /player path, you'll find sample code to set up a simple Player Card for your site.
 
 The basic steps to deploy are are:
 
@@ -14,7 +14,7 @@ The basic steps to deploy are are:
 - Open the page.html file and ensure the twitter:image, twitter:player and twitter:player:stream values point to your server and file locations
 - Update the content that you're pointing to (don't use the sample video, please!)
 - Ensure all paths are specified as secure (https://)
-- Test your URL 
+- Test your URL
 
 To test your experience, please visit the following URL:
 
@@ -33,6 +33,6 @@ Additional Help
 If you need more help getting your Player Card working, please check out these additional resources:
 
 - Player Card Documentation: https://developer.twitter.com/en/docs/tweets/optimize-with-cards/overview/player-card
-- Card Validator: https://cards-dev.twitter.com/validator
+- Cards Validator: https://cards-dev.twitter.com/validator
 - Troubleshooting Guide: https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/troubleshooting-cards
-- Card Forum: https://twittercommunity.com/c/publisher/cards
+- Cards Forum: https://twittercommunity.com/c/publisher/cards
