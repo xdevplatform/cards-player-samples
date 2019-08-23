@@ -8,7 +8,7 @@ Player Card
 
 In the /player path, you'll find sample code to set up a simple Player Card for your site.
 
-The basic steps to deploy are are:
+The basic steps to deploy are:
 
 - Unzip the contents into a publicly accessible path on your website
 - Open the page.html file and ensure the twitter:image, twitter:player and twitter:player:stream values point to your server and file locations
