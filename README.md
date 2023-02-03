@@ -11,6 +11,7 @@ The basic steps to deploy are:
 - Unzip the contents into a publicly accessible path on your website
 - Open the `page.html` file and ensure the `twitter:image`, `twitter:player` and `twitter:player:stream` values point to your server and file locations
 - Update the content (`container.html`) that you're pointing to... don't use the sample video, please!
+- Change ```example.com``` on ```player/page.html``` to your domain
 - Ensure all paths are specified as secure (https://)
 - Test your URL
 
